@@ -1,2 +1,2 @@
-# python-learning-path-ztm
-Learning Python
+# Learning Python
+
